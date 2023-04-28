@@ -3,7 +3,7 @@
 <p>
 After 21 years of following aspirations other than my own, I've had the chance to work many different jobs in various industries to figure out what it is I want to do for the rest of my life. Fast forward 8 years, I realized finding solutions to problems is what I enjoy most. At my last role at a regional bank, I found I didn't have enough technical skills to solve the problems my team was facing. 
 
-Enter software engineering. Before I would see some problems and think, "This might be impossible for me to do". Now it's, "I know where to start looking". 
+Enter software engineering. Before I would see some problems and thought, "I'm not sure what to do". Now it's, "I know where to start looking". 
 
 As a software engineer, I am comfortable and capable with languages like JavaScript, Python, HTML, CSS, SQL, and associated frameworks like React, Redux, Express, Sequelize, Flask, and SQLAlchemy. I am effective at both Agile and Waterfall methodologies, adherent to RESTful web API design, proficient with SCRUM, Kanban, and Git, and experienced with several forms of pair programming.
 
