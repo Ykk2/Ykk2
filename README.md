@@ -88,7 +88,7 @@ As a software engineer, I am comfortable and capable with languages like JavaScr
 <ul>
 	<li>Coursework for my AWS Certification</li>
 	<li>Creating passion projects with ThreeJS and GSAP</li>
-	<li>Data structures and algorithms via</li>
+	<li>Data structures and algorithms</li>
 </ul>
 
 <h3>Where to find me:</h3>
